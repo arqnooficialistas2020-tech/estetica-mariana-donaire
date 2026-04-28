@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://estetica-mariana-donaire.pages.dev/sitemap.xml
